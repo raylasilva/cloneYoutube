@@ -1,0 +1,527 @@
+#fundo{
+    position: fixed;
+    top: 0;
+    z-index: 18; 
+    
+}
+
+.logo1{
+    position: fixed;
+    left: 20px;
+    top:10px;
+    z-index: 20;
+    
+    
+
+    }
+    
+#imagem4{
+        position: fixed; 
+        right: 20px; 
+        top: 10px; 
+        z-index: 20;
+    
+    }
+
+    #busca{
+        position: fixed;
+        top:22px;
+        left: 310px;
+        width: 520px;
+        height: 35px;
+        z-index: 20;
+        font:  16px arial ;
+        outline-color: rgb(50, 117, 179)!important;
+
+        
+    }
+    
+    
+    
+    #botao{
+       position: fixed;
+        top: 21px;
+        right: 441px;
+        width: 70px;
+        height: 43px;
+        z-index: 20;
+        background-image: url("./IMAGENS/lupinha.png");
+        border-color: currentColor
+         
+    }
+
+input{
+    color: rgb(88, 86, 86);
+    
+}
+
+#video{
+    position: absolute;
+    top:100px;
+    left: 30px;
+    width: 800px;
+    height: 480px;
+}
+
+#text{
+    position: absolute;
+    top:580px;
+    left: 30px;
+    width: 800px;
+    height: 480px;  
+    font:  24px arial ;
+
+}
+
+#video2{
+    position: absolute;
+    top:100px;
+    left: 860px;
+    width: 250px;
+    height: 160px;
+}
+
+#video3{
+    position: absolute;
+    top:280px;
+    left: 860px;
+    width: 250px;
+    height: 160px;
+}
+
+#video4{
+    position: absolute;
+    top:460px;
+    left: 860px;
+    width: 250px;
+    height: 160px;
+}
+
+#video5{
+    position: absolute;
+    top:640px;
+    left: 860px;
+    width: 250px;
+    height: 160px;
+}
+
+#video6{
+    position: absolute;
+    top:820px;
+    left: 860px;
+    width: 250px;
+    height: 160px;
+}
+
+#video7{
+    position: absolute;
+    top:1000px;
+    left: 860px;
+    width: 250px;
+    height: 160px;
+}
+
+#video8{
+    position: absolute;
+    top:1180px;
+    left: 860px;
+    width: 250px;
+    height: 160px;
+}
+
+#video9{
+    position: absolute;
+    top:1360px;
+    left: 860px;
+    width: 250px;
+    height: 160px;
+}
+
+
+#titulo{
+    position:absolute;
+    font-size: medium;
+    color: rgb(17, 16, 16);
+    font: 24px arial ;
+    top:580px;
+    left: 30px;
+}
+
+#visualizado{
+    position:absolute;
+    
+    color: rgb(107, 104, 104);
+    font-style: normal;
+   font-size: large;
+    font:  17px arial ;
+    top:635px;
+    left: 30px;
+}
+  
+#curtidas{
+    position: absolute;
+    top:640px;
+    left: 260px;
+}
+
+#linha{
+    position: absolute;
+    top:685px;
+    left: 28px;
+}
+
+#botaosub{
+    position:absolute;
+    top: 710px;
+    left: 670px;
+    color: blanchedalmond;
+    width: 160px;
+    height: 45px;
+    background-color: rgb(236, 15, 15);
+    border-top-color:red;
+	border-right-color: red;
+	border-bottom-color: red;
+	border-left-color: red;
+    font: bold 16px arial ;
+}
+
+#vid2{
+    position: absolute;
+    top:82px;
+    font: bold 18px arial ;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+
+}
+
+#vid3{
+    position: absolute;
+    font: bold 18px arial ;
+    top:259px;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+}
+
+#vid4{
+    position: absolute;
+    font: bold 18px arial ;
+    top:443px;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+}
+
+#vid5{
+    position: absolute;
+    font: bold 18px arial ;
+    top:619px;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+}
+
+#vid6{
+    position: absolute;
+    font: bold 18px arial ;
+    top:799px;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+}
+
+#vid7{
+    position: absolute;
+    font: bold 18px arial ;
+    top:979px;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+}
+
+#vid8{
+    position: absolute;
+    font: bold 18px arial ;
+    top:1159px;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+}
+
+#vid9{
+    position: absolute;
+    font: bold 18px arial ;
+    top:1339;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+}
+
+#avatar{
+    position:absolute;
+    top: 710px;
+    left: 30px;
+    width: 80px;
+    height: 67px;
+}
+
+#texto1{
+    position:absolute;
+    top: 710px;
+    left: 125px;
+    font: bold 15px arial ;
+    
+}
+
+#texto2{
+    position: absolute;
+    top: 729px;
+    color: rgb(116, 113, 113);
+    left: 125px;
+    font:  15px arial ;
+}
+
+#linhahorizontal{
+    position: absolute;
+    left: 30px;
+    width: 800px;
+    border: 1px solid rgb(243, 241, 241);
+    top: 960px; 
+    
+}
+
+#linhahorizontal2{
+    position: absolute;
+    left: 103px;
+    width: 732px;
+    border: 1px solid rgb(243, 241, 241);
+    top: 1091px; 
+    
+}
+
+#resumo{
+    position: absolute;
+    top: 779px;
+    left: 125px;
+    
+
+}
+
+#avatar2{
+    position: absolute;
+    top: 1050px;
+    left: 30px; 
+}
+
+#mais{display: none}
+
+#btnMostrarMais{
+    color: rgb(116, 113, 113);
+    font: bold 15px arial ;
+    top: 700;
+    background: transparent;
+    border: none !important;
+    left: 125px;
+}
+
+#adiciona{
+    position: absolute;
+    top: 1065px;
+    left: 105px;
+    width: 500px;
+    font: 20px arial;
+    border: transparent;
+    background: transparent;
+    box-shadow: 0 0 0 0;
+    outline: 0;
+    border: 0 none !important;
+}
+
+#o{
+    position: absolute;
+    top: 1150px;
+    left: 28px;
+   
+}
+
+
+#r{
+   position: absolute; 
+   top: 1300px;
+   left: 36px;
+}
+
+#l{
+    position: absolute;
+    top: 1450px;
+    left: 28px;
+}
+
+#comentario{
+    position: absolute;
+    top: 1262px;
+    left: 90px;
+    
+
+}
+
+#comentario2{
+    position: absolute;
+    top: 1392px;
+    left: 90px;
+
+}
+
+#comentario3{
+    position: absolute;
+    top: 1543px;
+    left: 90px;
+
+}
+
+#nome{
+    position: absolute;
+    top: 1150px;
+    left: 102px;
+    font: bold 14px arial ;
+}
+
+#nome2{
+   position: absolute; 
+   top: 1300px;
+   left: 102px;
+   font: bold 14px arial ;
+}
+
+#nome3{
+   position: absolute; 
+   top: 1450px;
+   left: 102px;
+   font: bold 14px arial ;
+}
+
+#nomea{
+    position: absolute;
+    top: 1175px;
+    left: 102px;
+    font: 18px arial;
+}
+
+#nome2a{
+    position: absolute;
+   top: 1327px;
+   left: 102px; 
+   font: 18px arial;
+}
+
+#nome3a{
+    position: absolute;
+    top: 1478px;
+    left: 102px;  
+    font: 18px arial;
+}
+
+#img2{
+    position: absolute;
+    top: 989px;
+    left: 190px;
+}
+
+#ordem{
+    position: absolute;
+    top: 979px;
+    left: 235px;
+    font: bold 17px arial;
+    color: rgb(94, 90, 90) ;;
+}
+
+#com{
+    position: absolute;
+    top: 976px;
+    left: 30px; 
+    font:  20px arial;
+   
+}
+
+#titulo2{
+    position: absolute;
+    top:115px;
+    font:  16px arial ;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+    color:rgb(116, 113, 113); ;
+}
+
+#titulo3{
+    position: absolute;
+    top:290px;
+    font:  16px arial ;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+    color:rgb(116, 113, 113); ;
+}
+
+#titulo4{
+    position: absolute;
+    top:475px;
+    font:  16px arial ;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+    color:rgb(116, 113, 113); ;
+}
+
+#titulo5{
+    position: absolute;
+    top:650px;
+    font:  16px arial ;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+    color:rgb(116, 113, 113); ; 
+}
+
+
+#titulo6{
+    position: absolute;
+    top:835px;
+    font:  16px arial ;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+    color:rgb(116, 113, 113); ;
+}
+
+#titulo7{
+    position: absolute;
+    top:1010px;
+    font:  16px arial ;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+    color:rgb(116, 113, 113); ; 
+}
+    
+#titulo8{
+    position: absolute;
+    top:1195px;
+    font:  16px arial ;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+    color:rgb(116, 113, 113); ;
+}
+
+#titulo9{
+    position: absolute;
+    top:1375px;
+    font:  16px arial ;
+    left: 1114px;
+    width: 250px;
+    height: 160px;
+    color:rgb(116, 113, 113); ; 
+}
+
